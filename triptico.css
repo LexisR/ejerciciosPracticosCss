@@ -1,0 +1,52 @@
+.principal{
+  background: #FFA500 ;
+  border:1px solid black;
+  width: 760px;
+  height: 50px;
+
+}
+*{
+  box-sizing: border-box;
+}
+
+.cuadro_1{
+  width: 200px;
+  height: 550px;
+  border: 1px solid black;
+  background: white;
+display: inline-block;
+
+}
+.cuadro_2{
+  width: 350px;
+  height: 550px;
+  border: 1px solid black;
+  background: white;
+  position: absolute;
+  top: 58px;
+  display: inline-block;
+}
+.cuadro_3{
+  width: 210px;
+  height: 550px;
+  border: 1px solid black;
+  background: white;
+display: inline-block;
+position: absolute;
+left: 557px;
+}
+.enunciado{
+  text-align: center;
+}
+.tex_1{
+  padding: 5px;
+}
+.enunciado1{
+  text-align: center;
+}
+.ultimo{
+  background:	#FFA500 ;
+  border:1px solid black;
+  width: 760px;
+  height: 50px;
+}

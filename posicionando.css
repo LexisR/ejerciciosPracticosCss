@@ -1,0 +1,49 @@
+.principal{
+
+}
+.caja{
+  width: 310px;
+  height: 330px;
+  background: red;
+}
+.caja_1{
+  width: 200px;
+  height: 210px;
+  background: DarkViolet ;
+  position: relative;
+  top: -270px;
+  left: 52px;
+}
+.caja_2{
+  width: 100px;
+  height: 100px;
+  background: yellow;
+  position: relative;
+  top: -480px;
+  left: 52px;
+}
+.caja_3{
+  width: 310px;
+  height: 330px;
+  background: blue;
+  position: relative;
+  top: -298px;
+}
+.caja_4{
+  width: 200px;
+  height: 210px;
+  background:green ;
+  position: relative;
+  top: -568px;
+  left: 52px;
+}
+.caja_5{
+  width: 70px;
+  height: 59px;
+  background: black;
+  position: relative;
+  top: -838px;
+  left: 0px;
+
+
+}
